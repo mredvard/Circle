@@ -1,0 +1,3 @@
+Small circle that can be dragged around the screen.
+
+It uses Canvas and events for touch, drag and release events in the screen
